@@ -1,5 +1,5 @@
 # Web-de-prueba-Bootstrap.
- Esta web es una forma de diseño con Bootstrap.
+ Esta web es una forma de diseño con Bootstrap estilo Blog.
  
  1.- Link de ejemplos de Bootstrap.
  https://getbootstrap.com/docs/5.1/examples/
